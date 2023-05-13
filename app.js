@@ -2,6 +2,8 @@ console.log("Rodando o sistema de gerenciamento de jogos");
 
 
 
+//git clone (link do github);
+
 //git commit (arquivo que quer modificar/postar) -m "FRASE PARA ALTERAR NO GITHub";
 //git push empurra para o github;
 //git status verifica o status do commit;
