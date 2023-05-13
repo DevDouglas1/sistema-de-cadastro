@@ -1,6 +1,7 @@
 console.log("Rodando o sistema de gerenciamento de jogos");
 
 
+// 1º cd, 2º cd desktop, 3º ls, git log, git log --oneline.
 
 //git clone (link do github);
 
